@@ -1,0 +1,1 @@
+docker run -p 3001:3000 --restart=always --link redis --link mysql --name qingful2-api --net qingful2 -d qingful2-api

@@ -1,0 +1,1 @@
+docker build -t qingful2-api .
